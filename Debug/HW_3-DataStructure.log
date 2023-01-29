@@ -1,0 +1,4 @@
+﻿  HW_3-DataStructure.cpp
+C:\Users\hp-Moon\Desktop\HW_3-DataStructure\HW_3-DataStructure.cpp(22,19): warning C4101: 'childcount': unreferenced local variable
+C:\Users\hp-Moon\Desktop\HW_3-DataStructure\HW_3-DataStructure.cpp(22,14): warning C4101: 'data': unreferenced local variable
+  HW_3-DataStructure.vcxproj -> C:\Users\hp-Moon\Desktop\HW_3-DataStructure\Debug\HW_3-DataStructure.exe

@@ -1,0 +1,5 @@
+﻿  HW_3-DataStructure.cpp
+C:\Users\hp-Moon\Desktop\HW_3-DataStructure\HW_3-DataStructure.cpp(43,19): warning C4101: 'childcount': unreferenced local variable
+C:\Users\hp-Moon\Desktop\HW_3-DataStructure\HW_3-DataStructure.cpp(43,14): warning C4101: 'data': unreferenced local variable
+C:\Users\hp-Moon\Desktop\HW_3-DataStructure\HW_3-DataStructure.cpp(132,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HW_3-DataStructure.vcxproj -> C:\Users\hp-Moon\Desktop\HW_3-DataStructure\x64\Debug\HW_3-DataStructure.exe
